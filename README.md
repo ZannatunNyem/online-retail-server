@@ -33,6 +33,7 @@ This backend works with the **Online Retail Client** frontend to support:
 ✔ User authentication support  
 ✔ RESTful API routes for products & cart  
 ✔ Cart management for each user 
+
 ✔ Supports secure communication with frontend
 
 ---
